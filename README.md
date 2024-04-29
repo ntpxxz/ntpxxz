@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **codex.smnz@gmail.com**
 
-- 📄 Know about my experiences [[https://shorturl.asia/T0ApF](https://shorturl.asia/T0ApF)](https://www.behance.net/gallery/189306205/PORTFOLIO-2024-Sam-Nattapon)
+- 📄 Know about my experiences [portfolio](https://www.behance.net/gallery/189306205/PORTFOLIO-2024-Sam-Nattapon)
 
 - ⚡ Pronouns: **He/His Funny man**
 
