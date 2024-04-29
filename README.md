@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ntpxxz/ntpxxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Sam Nattapon</h1>
 <h3 align="center">A passionate graphic design and frontend from Thailand</h3>
 
@@ -30,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntpxxz&show_icons=true&locale=en" alt="ntpxxz" /></p>
 
--->
+
