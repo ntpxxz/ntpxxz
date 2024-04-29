@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Sam Nattapon</h1>
-<h3 align="center">A passionate graphic design and frontend from Thailand</h3>
+<h1 align="left">Hi Guy👋, I'm Sam Nattapon</h1>
+<h3 align="left">A passionate graphic design and frontend from Thailand </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntpxxz&label=Profile%20views&color=0e75b6&style=flat" alt="ntpxxz" /> </p>
 
@@ -9,9 +7,9 @@
 
 - 🌱 I’m currently learning UX/UI and frontend **Figma, ReactJS, NextJS, Bootstrap**
 
-- 📫 How to reach me **codex.smnz@gmail.com**
+- 📬 How to reach me **codex.smnz@gmail.com**
 
-- 📄 Know about my experiences [portfolio](https://www.behance.net/gallery/189306205/PORTFOLIO-2024-Sam-Nattapon)
+- 🧀 Know about my experiences [portfolio](https://www.behance.net/gallery/189306205/PORTFOLIO-2024-Sam-Nattapon)
 
 - ⚡ Pronouns: **He/His Funny man**
 
@@ -25,6 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntpxxz&show_icons=true&locale=en&layout=compact" alt="ntpxxz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntpxxz&show_icons=true&locale=en" alt="ntpxxz" /></p>
 
 
