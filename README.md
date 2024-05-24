@@ -1,11 +1,11 @@
 <h1 align="left">Hi Guy👋, I'm Sam Nattapon</h1>
-<h3 align="left">A passionate graphic design and frontend from Thailand </h3>
+<h3 align="left">A passionate graphic design and Junior frontend dev from Thailand </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntpxxz&label=Profile%20views&color=0e75b6&style=flat" alt="ntpxxz" /> </p>
 
-- 🔭 I’m currently working on IT support [H-DESK](https://github.com/ntpxxz/HELPDESK-V1.git)
+- 🔭 I’m currently working on IT support [H-DESK]
 
-- 🌱 I’m currently learning UX/UI and frontend **Figma, ReactJS, NextJS, Bootstrap**
+- 🌱 I’m currently learning UX/UI and frontend **Figma, ReactJS, NextJS, Bootstrap, Tailwind**
 
 - 📬 How to reach me **codex.smnz@gmail.com**
 
